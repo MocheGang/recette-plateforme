@@ -22,7 +22,7 @@ sequelize.sync().then(() => {
   console.error('Erreur de synchronisation de la base de données:', error);
 });
 
-app.listen(6000, () => {
-  console.log('Serveur démarré sur le port 6000');
+app.listen(7000, () => {
+  console.log('Serveur démarré sur le port 7000');
 });
 

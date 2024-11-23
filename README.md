@@ -21,7 +21,7 @@ npm install jsonwebtoken
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/utilisateur/mon-repo.git
+git remote add origin https://github.com/utilisateur/mon-repo.git](https://github.com/MocheGang/recette-plateforme.git)
 git branch -M main
 git push -u origin main
 
